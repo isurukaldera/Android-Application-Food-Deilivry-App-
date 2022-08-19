@@ -1,6 +1,6 @@
 # Android-Application-Food-Deilivry-App-
 Android Food Deilivery Application Using Android Studio
-![image](https://user-images.githubusercontent.com/75193561/185550871-95a5c87c-684d-4af4-9453-8c66ea05c71e.png)
+![image](https://user-images.githubusercontent.com/75193561/185551323-64c2b30b-a32d-468a-8c1c-9158eb669140.png)
 ![image](https://user-images.githubusercontent.com/75193561/185551209-9a0d0122-10c0-47f6-9092-039103bc87df.png)
 ![image](https://user-images.githubusercontent.com/75193561/185551010-6c0920ce-09e1-41a8-80dc-ec82f23ff7d7.png)
 ![image](https://user-images.githubusercontent.com/75193561/185551023-51271990-e788-46b7-b613-abd201759c8c.png)
